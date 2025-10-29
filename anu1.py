@@ -2,7 +2,6 @@
 a=10
 b=20
 c=13
-d=23
 
 if a>=b and a>c:
     print(a, "is the largest number")
